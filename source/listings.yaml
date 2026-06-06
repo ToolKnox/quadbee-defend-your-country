@@ -1,0 +1,10 @@
+listings:
+- platform: printables
+  url: https://www.printables.com/model/1457783-quadbee-defend-your-country
+  external_id: '1457783'
+- platform: makerworld
+  url: https://makerworld.com/en/models/1940065-quadbee-fpv-defend-your-country
+  external_id: '1940065'
+- platform: thingiverse
+  url: https://www.thingiverse.com/thing:7191308
+  external_id: '7191308'

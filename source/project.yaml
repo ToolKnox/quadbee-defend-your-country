@@ -1,0 +1,19 @@
+title: QuadBee - Defend Your Country!
+summary: 'Slava Ukraini!
+
+  All funds gained from donations and affiliate commission will be going to Ukraine.'
+status: published
+tags: []
+created_at: '2026-04-29'
+external:
+  cad_path: ''
+  firmware_path: ''
+  notes: ''
+donation:
+  flag: ukraine
+  cause: 'EVERY DOLLAR DONATED OR MADE IN THIS PROJECT WILL GO TO UKRAINE!'
+  club_text: 'Join my club at Printables to support Ukraine!'
+  club_url: 'https://www.printables.com/@TomKnox'
+  links:
+    - {label: 'Donate through PayPal', url: 'https://www.paypal.com/paypalme/TomKnox3d'}
+    - {label: 'Donate through Ko-Fi',  url: 'https://ko-fi.com/tomknox'}

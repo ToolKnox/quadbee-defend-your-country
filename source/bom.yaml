@@ -1,0 +1,385 @@
+items:
+- key: caddx-ratel-2-12000-tvl
+  name: Caddx Ratel 2 12000 TVL
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: 915-mhz-receiver-express-lrs-nano
+  name: 915 MHz receiver Express LRS Nano
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: speedybee-f405-v3-stack-bls-50a
+  name: SpeedyBee F405 V3 Stack BLS 50A
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: vtx-akk-race-ranger-1-6w
+  name: VTX AKK Race Ranger 1.6W
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: emax-ecoii-series-eco-ii-2807-6s-1300kv
+  name: EMAX ECOII Series ECO II 2807 6S 1300KV
+  qty: 4
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: fpv-antenna-sma-10cm
+  name: FPV antenna SMA 10cm
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: hqprop-7035-7x3-5x3
+  name: HQPROP 7035 7x3.5x3
+  qty: 4
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: mark-4-7-frame
+  name: Mark 4 7'’ frame
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: xt60-connectors
+  name: XT60 connectors
+  qty: 2
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: radiomaster-bandit-micro-elrs-915-mhz-radio-adapter
+  name: RadioMaster Bandit Micro ELRS 915 MHz Radio Adapter
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: beitian-bn-220-gps-module-and-buzzer
+  name: Beitian BN-220 GPS module and Buzzer
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: lipo-22-2v-6s-battery-7000-10000mah
+  name: LiPo 22.2V 6S Battery (7000-10000mAh)
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: Li-Po more powerfull discharge / Power output. Better for FPV Racing
+- key: lithium-ion-22-2v-6s2p-battery-7000-10000mah
+  name: Lithium-Ion 22.2V 6s2p Battery (7000-10000mAh)
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 0
+  target_url: ''
+  notes: Li-Ion better for long range flights
+- key: 5-8g-fpv-goggles-40ch-x-band
+  name: 5.8G FPV Goggles 40CH X BAND
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 1
+  target_url: ''
+  notes: ''
+- key: radiomaster-tx12-mark-ii-radio-controller
+  name: RadioMaster TX12 Mark II Radio Controller
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 1
+  target_url: ''
+  notes: ''
+- key: alternative-mark-4-5-frame
+  name: Alternative Mark 4 5" frame
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 2
+  target_url: ''
+  notes: 5 inch arm - Alternative
+- key: drone-payload-system
+  name: Drone Payload System
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 2
+  target_url: ''
+  notes: Alternative untill new redesign
+- key: dual-payload-system
+  name: Dual Payload System
+  qty: 1
+  source: amazon
+  category: Components
+  sub_index: 2
+  target_url: ''
+  notes: Alternative untill new redesign
+- key: heat-insert-set
+  name: Heat insert set
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: power-wire
+  name: Power Wire
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 0
+  target_url: ''
+  notes: 12AWG - (For 2A and/or 5v)
+- key: communication-signal-wire
+  name: Communication / Signal Wire
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 0
+  target_url: ''
+  notes: 22AWG - (Recommend solid core)
+- key: ferrules-set
+  name: Ferrules Set
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: reusable-velcro-cable-ties
+  name: Reusable Velcro Cable Ties
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: heat-shrink
+  name: Heat Shrink
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: m3-countersunk-screw-set
+  name: M3 Countersunk screw set
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: distances-standoffs-m3
+  name: Distances (Standoffs M3)
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 0
+  target_url: ''
+  notes: Needed if you want to 3d-print the frame
+- key: heat-insert-set-2
+  name: Heat insert set
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 1
+  target_url: ''
+  notes: Alternative
+- key: m3-button-cap-set-alternative
+  name: M3 Button Cap Set (Alternative)
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 1
+  target_url: ''
+  notes: Alternative link
+- key: m3-socket-head-cap-alternative
+  name: M3 Socket head cap (Alternative
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 1
+  target_url: ''
+  notes: Alternative link
+- key: m3-heat-insert-set-alternative
+  name: M3 Heat Insert set (Alternative
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 1
+  target_url: ''
+  notes: Alternative link
+- key: m3-spacers-distances-alternative
+  name: M3 Spacers/Distances (Alternative
+  qty: 1
+  source: amazon
+  category: Misc
+  sub_index: 1
+  target_url: ''
+  notes: Alternative link
+- key: pc-asa-abs-petg-filament
+  name: PC / ASA / ABS / PETG Filament
+  qty: 1
+  source: amazon
+  category: Filament
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: pc-cf-petg-cf-pa-cf-abs-engineering-grade-filaments
+  name: PC-CF / PETG-CF / PA-CF / ABS+ (Engineering Grade Filaments)
+  qty: 1
+  source: amazon
+  category: Filament
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: pla
+  name: PLA
+  qty: 1
+  source: amazon
+  category: Filament
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: tpu
+  name: TPU
+  qty: 1
+  source: amazon
+  category: Filament
+  sub_index: 0
+  target_url: ''
+  notes: ''
+- key: soldering-iron-ts101
+  name: Soldering Iron TS101
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 0
+  target_url: ''
+  notes: (Recommended)
+- key: heat-inset-tip-kit-for-ts101
+  name: Heat Inset Tip Kit - For TS101
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 0
+  target_url: ''
+  notes: (Recommended)
+- key: electric-precision-screwdriver
+  name: Electric Precision Screwdriver
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 0
+  target_url: ''
+  notes: (Recommended)
+- key: allen-key-set
+  name: Allen Key Set
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 0
+  target_url: ''
+  notes: (Recommended)
+- key: torx-key-set
+  name: Torx Key Set
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 0
+  target_url: ''
+  notes: (Recommended)
+- key: torque-screwdriver
+  name: Torque Screwdriver
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 0
+  target_url: ''
+  notes: (Recommended)
+- key: wire-stripper
+  name: Wire stripper
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 0
+  target_url: ''
+  notes: (Recommended)
+- key: wire-cutter
+  name: Wire cutter
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 0
+  target_url: ''
+  notes: (Recommended)
+- key: heat-insert-press-tool
+  name: Heat Insert Press Tool
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 0
+  target_url: ''
+  notes: (Recommended)
+- key: crimp-tool
+  name: Crimp Tool
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 0
+  target_url: ''
+  notes: (Recommended)
+- key: soldering-iron-generic-alternative
+  name: Soldering Iron - Generic  (Alternative)
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 1
+  target_url: ''
+  notes: Budget friendly alternative
+- key: heat-insert-tip-set-alternative
+  name: Heat insert tip - set   (Alternative)
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 1
+  target_url: ''
+  notes: Budget friendly alternative
+- key: precision-screwdriver-set
+  name: Precision Screwdriver Set
+  qty: 1
+  source: amazon
+  category: Tools
+  sub_index: 1
+  target_url: ''
+  notes: Budget friendly alternative
