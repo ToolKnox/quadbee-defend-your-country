@@ -7,7 +7,7 @@ The 3D-printing platform listings are kept focused on printable/CAD files. This 
 ## Build resources
 
 - [Assembly instructions PDF](docs/quadbee-assembly-instructions.pdf)
-- [BOM PDF](BOM.pdf)
+- [Bill of Material](https://toolknox.github.io/quadbee-defend-your-country/bill-of-material.html)
 - [Wiring guide](docs/wiring.md)
 - [Firmware / Betaflight notes](docs/firmware.md)
 - [Source snapshot](source/)
